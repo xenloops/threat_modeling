@@ -7,6 +7,10 @@ to highlight concerns about security and privacy characteristics. </p>
 
 <p align="right"> -- The Threat Modeling Manifesto </p>
 
+
+"Threat models are a way of looking at risks ... to identify the most likely threats to your security."
+By using threat modeling to identify your own particular pile of risks, you can then move to counter the ones that are most likely and most dangerous.
+
 <br /><br /><br /><br /><br /><br />
 
 ### What does this mean?
@@ -19,7 +23,7 @@ to highlight concerns about security and privacy characteristics. </p>
 * Doing anything is better than doing nothing
 
 Threat modeling is a communal activity
-* Best when it involves everyone:
+* Should involve anyone concerned with the privacy, safety, and security of the system (and has knowledge of the system):
   * Security experts
   * System architects
   * Development team
