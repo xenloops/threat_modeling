@@ -13,8 +13,9 @@ Nathan Larson has led static analysis teams at two major financial institutions,
 2. Why is it needed?
 3. When do we do it?
 4. How do we do it?
-5. Short demo
-6. Q&A
+5. Examples
+6. Short demo
+7. Q&A
 
 ### Key takeaways
 Threat modeling:
