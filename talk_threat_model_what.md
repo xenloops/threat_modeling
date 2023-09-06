@@ -18,8 +18,7 @@ to highlight concerns about security and privacy characteristics. </p>
 * But we can threat model even with an incomplete design
 * Doing anything is better than doing nothing
 
-Another important point:
-* Threat modeling is a communal activity
+Threat modeling is a communal activity
 * Best when it involves everyone:
   * Security experts
   * System architects
