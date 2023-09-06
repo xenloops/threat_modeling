@@ -14,7 +14,7 @@ to highlight concerns about security and privacy characteristics. </p>
 ![alt text](/images/batman-threat-model-1200-800x535.png "Nananananananana Batman!")
 
 * We look at a _model_ of the system
-* More accurate models give more accurate results (GIGO)
+* More accurate models give more accurate results
 * But we can threat model even with an incomplete design
 * Doing anything is better than doing nothing
 
