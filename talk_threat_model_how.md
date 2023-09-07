@@ -22,7 +22,7 @@ We already do a fair amount of threat modeling:
 
 **Asset:** Foot <br />
 **Threat:** Legos left on floor <br />
-**Control:** Watch where you set foot down <br />
+**Control:** Watch where you step <br />
 **Control:** Wear shoes in house <br />
 **Control:** Train kids to clean up when they're done playing <br />
 
