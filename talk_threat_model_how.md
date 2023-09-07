@@ -11,19 +11,20 @@ We already do a fair amount of threat modeling:
 
 <br /><br /><br />
 
-**Asset:** Self <br />
-**Threat:** Mugging <br />
-**Control:** Avoid dimly-lit, unpopulated areas at night <br />
-**Control:** Learn self-defense techniques <br />
-
-<br /><br /><br />
-
 **Asset:** Vehicle <br />
 **Threat:** Theft <br />
 **Control:** Lock doors <br />
 **Control:** Set alarm <br />
 **Control:** Don't leave valuables in vehicle/plain sight <br />
 **Control:** Drive a beater <br />
+
+<br /><br /><br />
+
+**Asset:** Foot <br />
+**Threat:** Legos left on floor <br />
+**Control:** Watch where you set foot down <br />
+**Control:** Wear shoes in house <br />
+**Control:** Train kids to clean up when they're done playing <br />
 
 <br /><br /><br /><br /><br /><br />
 
