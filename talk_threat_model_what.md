@@ -22,9 +22,4 @@ By using threat modeling to identify your own particular pile of risks, you can 
 * But we can threat model even with an incomplete design
 * Doing anything is better than doing nothing
 
-Threat modeling is a communal activity
-* Should involve anyone concerned with the privacy, safety, and security of the system (and has knowledge of the system):
-  * Security experts
-  * System architects
-  * Development team
  
