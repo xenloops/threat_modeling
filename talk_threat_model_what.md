@@ -7,19 +7,22 @@ to highlight concerns about security and privacy characteristics. </p>
 
 <p align="right"> -- The Threat Modeling Manifesto </p>
 
+<br />
 
-"Threat models are a way of looking at risks ... to identify the most likely threats to your security."
-By using threat modeling to identify your own particular pile of risks, you can then move to counter the ones that are most likely and most dangerous.
+Threat models are a way of looking at risks to identify the most likely threats to your security.
 
 <br /><br /><br /><br /><br /><br />
 
 ### What does this mean?
 
-![alt text](/images/batman-threat-model-1200-800x535.png "Nananananananana Batman!")
+![alt text](/images/batman-threat-model-1200-800x535.png "Nananananananana Batman!")<br>
+<sup>Tiffany Liu/MIT</sup>
 
 * We look at a _model_ of the system
 * More accurate models give more accurate results
 * But we can threat model even with an incomplete design
 * Doing anything is better than doing nothing
 
- 
+<br />
+
+[Next slide](talk_threat_model_who.md)
