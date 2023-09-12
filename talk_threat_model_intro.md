@@ -9,13 +9,14 @@ Nathan Larson has led static analysis teams at two major financial institutions,
 
 ### Agenda
 
-1. What is a threat model?
-2. Why is it needed?
-3. When do we do it?
-4. How do we do it?
-5. Examples
-6. Short demo
-7. Q&A
+1. What is threat modeling?
+1. Why is it needed?
+1. Who does it?
+1. When do we do it?
+1. How do we do it?
+1. Examples
+1. Short demo
+1. Q&A
 
 ### Key takeaways
 Threat modeling:
