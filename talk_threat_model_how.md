@@ -26,26 +26,42 @@ We already do a fair amount of threat modeling:
 **Control:** Wear shoes in house <br />
 **Control:** Train kids to clean up when they're done playing <br />
 
-<br /><br /><br /><br /><br /><br />
+<br /><br />
 
+By using threat modeling to identify a system's particular set of risks, we can then counter the ones that are most likely and most dangerous.
+
+<br /><br /><br /><br /><br /><br />
 
 ### Process
 
-[Shostack's Four Question Framework](https://github.com/adamshostack/4QuestionFrame):
+#### Threat modeling according to the [TM Manifesto](https://www.threatmodelingmanifesto.org) and [Adam Shostack's Four Question Framework](https://github.com/adamshostack/4QuestionFrame):
 
 * What are we working on?
 * What can go wrong?
 * What are we going to do about it?
 * Did we do a good enough job?
 
+In other words:
+* What is the system?
+* What threatens the system?
+* How can we protect against those threats?
+* Get feedback.
+
 <br /><br />
 
-The Electronic Frontier Foundation's five-question structure:
+#### Threat modeling according to [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html):
 
-* What do you want to protect? (Data, communications, anything that could cause problems if misused.)
-* Who do you want to protect it from? (Who might want the stuff?)
-* How likely is it that you need to protect it? (Your level of exposure to the threats.)
-* How bad are the consequences if you fail?
-* How much trouble is protection worth? (Money, time, and effort you're willing to spend to protect this.)
+1. Document how data flows through a system to identify where the system might be attacked.
+1. Document as many potential threats to the system as possible.
+1. Document security controls that may be put in place to reduce the likelihood or impact of a potential threat.
+
+<br /><br />
+
+#### Threat modeling according to [AWS](https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling/):
+
+1. Identify assets, actors, entry points, components, use cases, and trust levels, and include these in a design diagram.
+1. Identify a list of threats.
+1. Per threat, identify mitigations, which may include security control implementations.
+1. Create and review a risk matrix to determine if the threat is adequately mitigated.
 
 
