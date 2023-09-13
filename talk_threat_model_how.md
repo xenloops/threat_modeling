@@ -36,10 +36,10 @@ By using threat modeling to identify a system's particular set of risks, we can 
 
 #### Threat modeling according to the [TM Manifesto](https://www.threatmodelingmanifesto.org) and [Adam Shostack's Four Question Framework](https://github.com/adamshostack/4QuestionFrame):
 
-* What are we working on?
-* What can go wrong?
-* What are we going to do about it?
-* Did we do a good enough job?
+* What are we working on? (Asset)
+* What can go wrong? (Threat)
+* What are we going to do about it? (Control)
+* Did we do a good enough job? (Feedback/reflection)
 
 In other words:
 * What is the system?
