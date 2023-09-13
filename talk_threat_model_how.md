@@ -1,30 +1,29 @@
 
 # How to Threat Model
 
-We already do a fair amount of threat modeling:
+We already do a fair amount of threat modeling. At its most basic level, threat modeling asks:
+
+![alt text](/images/pez-gun.png "They'll take my Pez from my cold, dead hands.")<br>
+
+# What could go wrong?
 
 <br /><br />
 
 **Assets:** Life, house, possessions <br />
 **Threat:** Fire <br />
-**Control:** Maintain smoke detectors <br />
+**Control(s):** 
 
 <br /><br /><br />
 
 **Asset:** Vehicle <br />
 **Threat:** Theft <br />
-**Control:** Lock doors <br />
-**Control:** Set alarm <br />
-**Control:** Don't leave valuables in vehicle/plain sight <br />
-**Control:** Drive a beater <br />
+**Control(s):** 
 
 <br /><br /><br />
 
 **Asset:** Foot <br />
 **Threat:** Legos left on floor <br />
-**Control:** Watch where you step <br />
-**Control:** Wear shoes in house <br />
-**Control:** Train kids to clean up when they're done playing <br />
+**Control(s):** 
 
 <br /><br />
 
