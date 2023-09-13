@@ -9,7 +9,11 @@ to highlight concerns about security and privacy characteristics. </p>
 
 <br />
 
-Threat models are a way of looking at risks to identify the most likely threats to your security.
+<p align="center"> At its heart, threat modeling is a collection of ways to anticipate and address problems. </p>
+
+<p align="right"> -- Adam Shostack </p>
+
+<!-- Threat models are a way of looking at risks to identify the most likely threats to your security. -->
 
 <br /><br /><br /><br /><br /><br />
 
