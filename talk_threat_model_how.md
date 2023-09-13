@@ -5,7 +5,7 @@ We already do a fair amount of threat modeling:
 
 <br /><br />
 
-**Asset:** House and possessions <br />
+**Assets:** Life, house, possessions <br />
 **Threat:** Fire <br />
 **Control:** Maintain smoke detectors <br />
 
