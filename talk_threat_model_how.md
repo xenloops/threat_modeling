@@ -3,7 +3,7 @@
 
 We already do a fair amount of threat modeling. At its most basic level, threat modeling asks:
 
-![alt text](/images/pez-gun.png "They'll take my Pez from my cold, dead hands.")<br>
+![alt text](/images/pez_gun.png "They'll take my Pez from my cold, dead hands.")<br>
 
 # What could go wrong?
 
