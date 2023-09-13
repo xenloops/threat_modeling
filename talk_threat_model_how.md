@@ -3,11 +3,14 @@
 
 We already do a fair amount of threat modeling. At its most basic level, threat modeling asks:
 
-![alt text](/images/pez_gun.jpg "They'll take my Pez from my cold, dead hands.")<br>
+| <h2> What could possibly go wrong? </h2> | ![alt text](/images/pez_gun_med.jpg "They'll take my Pez from my cold, dead hands.") |
+|--|--|
 
-# What could go wrong?
+<br /><br /><br />
 
-<br /><br />
+### Some everyday examples:
+
+<br />
 
 **Assets:** Life, house, possessions <br />
 **Threat:** Fire <br />
@@ -42,11 +45,11 @@ By using threat modeling to identify a system's particular set of risks, we can 
 
 In other words:
 * What is the system?
-* What threatens the system?
+* What can threaten the system?
 * How can we protect against those threats?
 * Get feedback.
 
-<br /><br />
+<br /><br /><br />
 
 #### Threat modeling according to [OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html):
 
