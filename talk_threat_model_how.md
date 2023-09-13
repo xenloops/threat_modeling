@@ -41,7 +41,7 @@ By using threat modeling to identify a system's particular set of risks, we can 
 * What are we working on? (Asset)
 * What can go wrong? (Threat)
 * What are we going to do about it? (Control)
-* Did we do a good enough job? (Feedback/reflection)
+* Did we do a good enough job? (Test/QA)
 
 In other words:
 * What is the system?
