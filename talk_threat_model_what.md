@@ -51,4 +51,4 @@ In other words:
 
 <br /><br />
 
-[Next slide](talk_threat_model_who.md)
+[Next slide](talk_threat_model_why.md)
