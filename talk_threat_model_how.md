@@ -6,20 +6,25 @@ We already do a fair amount of threat modeling. At its most basic level, threat 
 | <h2> What could possibly go wrong? </h2> | ![alt text](/images/pez_gun_med.jpg "They'll take my Pez from my cold, dead hands.") |
 |--|--|
 
+<br /><br />
+
+Using threat modeling to identify a system's particular set of risks, we can control the ones that are most likely and most dangerous.
+
 <br /><br /><br />
 
 ### Some everyday examples:
+_(This is where we get audience input!)_
 
 <br />
 
-**Assets:** Life, house, possessions <br />
-**Threat:** Fire <br />
+**Asset:** House <br />
+**Threat:**<br />
 **Control(s):** 
 
 <br /><br /><br />
 
 **Asset:** Vehicle <br />
-**Threat:** Theft <br />
+**Threat:**<br />
 **Control(s):** 
 
 <br /><br /><br />
@@ -28,13 +33,9 @@ We already do a fair amount of threat modeling. At its most basic level, threat 
 **Threat:** Legos left on floor <br />
 **Control(s):** 
 
-<br /><br />
-
-By using threat modeling to identify a system's particular set of risks, we can then counter the ones that are most likely and most dangerous.
-
 <br /><br /><br /><br /><br /><br />
 
-### Process
+### Many have brought some rigor to the process
 
 #### Threat modeling according to the [TM Manifesto](https://www.threatmodelingmanifesto.org) and [Adam Shostack's Four Question Framework](https://github.com/adamshostack/4QuestionFrame):
 
@@ -66,4 +67,8 @@ In other words:
 1. Per threat, identify mitigations, which may include security control implementations.
 1. Create and review a risk matrix to determine if the threat is adequately mitigated.
 
+
+<br /><br />
+
+[Next slide](talk_threat_model_demo.md)
 
