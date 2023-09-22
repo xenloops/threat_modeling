@@ -1,10 +1,9 @@
 # Why should we do Threat Modeling?
 
-<br /><br /><br />
-
 * Recognize what can go wrong in a system
+* TM anticipates attacks before they occur (even before the system is built!)
 * Find design and implementation issues that require mitigation
-* Inform decisions that you might make in design and subsequent phases
+* Inform decisions that we might make in design and subsequent phases
 
 
 <br /><br />
