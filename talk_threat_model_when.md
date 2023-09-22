@@ -4,15 +4,19 @@
 * When system architecture is coming together
 * Anytime major changes are considered
 
-What? Yet Another Security Roadblock?
+<br /><br />
 
-NO.
+<p align="center"><b>What? Yet Another Security Roadblock?</b></p>
 
-Threat Modeling is iterative
-Fits into agile SDLC -- it's a living, breathing model
-The Threat Model unfolds with implementation
-Iterative refinement
-	□ Always update when design changes to better reflect reality of the system.
+<p align="center">NO.</p>
+
+<br /><br />
+
+* Fits into SDLC 
+* Iterative; creates a living, breathing model
+* Unfolds with implementation
+* Allows for refinement
+
 
 <br /><br />
 
@@ -20,11 +24,11 @@ Do _not_ wait until:
 
 * Architecture is set in stone
 * Development is well underway
-* The night before release
+* "We're going 'live' tonight; can you 'bless' our security?"
 
 Waiting until after design is complete? We will not have a good day.
-			□ Rework -- risk waivers -- exec signoffs
-			□ "We're going 'live' tonight; can you 'bless' our security?"
+* Rework, risk waivers, exec signoffs
+
 
 
 <br /><br />
