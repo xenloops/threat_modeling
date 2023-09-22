@@ -6,7 +6,7 @@
 
 What? Yet Another Security Roadblock?
 
- NO.
+NO.
 
 Threat Modeling is iterative
 Fits into agile SDLC -- it's a living, breathing model
