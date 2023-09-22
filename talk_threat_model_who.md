@@ -4,9 +4,12 @@
 
 ## Threat modeling is a communal activity
 
-* Everyone concerned with the privacy, safety, and security of the system (and has knowledge of the system):
+* Everyone concerned with the security of the system:
   * Security experts
   * System architects
-  * Development team
-  * QA team/testing
+  * Development teams
+  * QA/testing teams
 
+<br /><br />
+
+[Next slide](talk_threat_model_when.md)
