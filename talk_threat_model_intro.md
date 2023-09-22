@@ -13,8 +13,7 @@ Nathan Larson has led static analysis teams at two major financial institutions,
 1. Why is it needed?
 1. Who does it?
 1. When do we do it?
-1. How do we do it?
-1. Examples
+1. How can we do it?
 1. Short demo
 1. Q&A
 
@@ -27,9 +26,10 @@ Threat modeling:
 ### Ground rules
 * Participation is good
 * **Interrupt with questions!**
-* There are no silver bullets
+* There are no silver bullets in security
+* Security is never 100%
 
-<br />
+<br /><br />
 
 [Next slide](talk_threat_model_what.md)
 
