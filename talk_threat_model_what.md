@@ -1,6 +1,20 @@
 # What is Threat Modeling?
 
-<br /><br /><br />
+* An aspect of design
+* A skillset to help guide design
+* The process of finding defects in the security of the design of a system
+
+### But Threat Modeling is _not_
+
+* A "one and done" deliverable
+* A data-flow diagram
+* Investing in a tool
+* Writing policy documents
+
+Threat Modeling should not be used to reveal mysterious security issues that have a 0.0001% chance of happening. Alerting to real-world, common threats is much more useful.
+
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p align="center"> Threat modeling is analyzing <i>representations</i> of a system <br>
 to highlight concerns about security and privacy characteristics. </p>
