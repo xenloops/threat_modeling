@@ -2,17 +2,12 @@
 
 <br /><br /><br />
 
-## First, why a _model_?
+* Recognize what can go wrong in a system
+* Find design and implementation issues that require mitigation
+* Inform decisions that you might make in design and subsequent phases
+
 
 <br /><br />
 
-<p align="center"><i>Ce qui est simple est toujours faux. Ce qui ne l’est pas est inutilisable.</i></p>
-<p align="center">(If it's simple, it's always false. If it's not, it's unusable.)</p>
-<p align="right">Philosopher-poet Paul Valéry</p>
-
-In other words:
-
-<br /><br />
-
-<p align="center">All models are false. Some are useful.</p>
+[Next slide](talk_threat_model_who.md)
 
