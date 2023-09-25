@@ -1,5 +1,13 @@
-# The Art of Threat Modeling: an Introduction
+# An Introduction to Threat Modeling
 Duration: 45 minutes
+
+<br /><br /><br />
+
+### Description
+
+What is threat modeling, and how do we do it without adding another burdensome security activity? This talk introduces threat modeling as a practice that reduces risk, saves effort, and enhances -- not blocks -- the software development process.
+
+<br /><br /><br />
 
 ### About the speaker
 
