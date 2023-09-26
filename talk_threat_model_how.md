@@ -48,7 +48,7 @@ In other words:
 * What is the system?
 * What can threaten the system?
 * How can we protect against those threats?
-* Get feedback.
+* Get feedback/validate.
 
 <br /><br /><br />
 
